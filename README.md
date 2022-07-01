@@ -5,3 +5,4 @@ This repo contains the CyberPet project for Week 4 assignment for CodeNation Mas
 #TODO
 [1] We abandoned ideas on have an emotion array, that's one direction we can improve on.
 [2] We also abandoned the addittional pet functions, and that's another direction
+[3] Also ASCII art
